@@ -1,2 +1,2 @@
 # Samuel-Salazar
-Mi rrepositorio personal
+Mi repositorio personal
